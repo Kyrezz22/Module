@@ -1,0 +1,3 @@
+// Settings for the Gradle build
+rootProject.name = 'my-project'
+include ':app', ':library'
